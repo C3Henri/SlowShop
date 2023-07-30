@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 - Git
 - Composer
-- PHP >= 7.4
+- PHP >= 8.2
 - MySQL >= 5.7
 
 ### ⏳ Installation
